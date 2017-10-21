@@ -1,5 +1,6 @@
 # SQLite_Connector
 //SQLite Connector Dataaccess Class and sqlite.net dll
+// Use this file to connect sqlite, SQL, MYSQL or oracle Database server 
 
 using System;
 using System.Collections.Generic;
